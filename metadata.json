@@ -1,0 +1,6 @@
+{
+  "name": "پیک | سوپر اپلیکیشن پیام‌رسان",
+  "description": "سوپر اپلیکیشن پیام‌رسان پیک با احراز هویت شماره موبایل، گفتگوی پیشرفته، پروفایل، مینی‌اپ‌ها و تنظیمات کامل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
